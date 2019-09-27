@@ -1,4 +1,6 @@
 .git
 *.swp
 *.pdf
-*.vs_code
+*.vscode
+.vscode
+.venv
